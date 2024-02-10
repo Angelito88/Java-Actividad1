@@ -1,7 +1,6 @@
 import java.util.Scanner; 
 /**
- * Autor: Angel
- * Descripció: 
+ * @author: angNavarro
  * 
  * 
  */
